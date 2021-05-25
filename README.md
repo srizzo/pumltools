@@ -1,6 +1,12 @@
 # pumltools
 
 (work in progress)
+                           
+#### Install
+
+```
+brew install srizzo/tap/pumltools
+```
 
 #### Convert generated Sequence Diagrams to Communication Diagrams
 
